@@ -1,0 +1,15 @@
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.AssemblyInfoInputs.cache
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.AssemblyInfo.cs
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.csproj.CoreCompileInputs.cache
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.sourcelink.json
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/bin/Debug/net8.0/Lesson7
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/bin/Debug/net8.0/Lesson7.deps.json
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/bin/Debug/net8.0/Lesson7.runtimeconfig.json
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/bin/Debug/net8.0/Lesson7.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/bin/Debug/net8.0/Lesson7.pdb
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/refint/Lesson7.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.pdb
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/Lesson7.genruntimeconfig.cache
+/Users/vladimirtarasenko/Documents/Lesson_working Git/Lesson7/obj/Debug/net8.0/ref/Lesson7.dll
